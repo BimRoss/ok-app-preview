@@ -12,6 +12,9 @@
 .ag-titlerow .ag-ic{width:calc(1.97917*var(--fvw,1vw));height:calc(1.97917*var(--fvw,1vw));display:inline-flex;align-items:center;justify-content:center;cursor:pointer;background:none;border:none;padding:0;color:inherit;}
 .ag-titlerow .ag-ic svg{width:100%;height:100%;}
 .ag-ic-img{width:calc(1.50000*var(--fvw,1vw));height:calc(1.50000*var(--fvw,1vw));display:block;}
+.ag-ic-edit .ag-ic-img{width:calc(1.04167*var(--fvw,1vw));height:calc(1.04167*var(--fvw,1vw));}
+.ag-kluch b,.ag-appid b,.ag-gid b,.ag-pass b,.ag-login b{margin-right:calc(0.83333*var(--fvw,1vw));}
+.ag-titlerow{gap:calc(1.04167*var(--fvw,1vw));}
 .ag-ic-img-arrow{transform:rotate(0deg);transition:transform .2s ease;}
 .app-group.is-collapsed .ag-ic-img-arrow{transform:rotate(180deg);}
 .ag-titlerow .ag-ic-x{color:#595959;}.ag-titlerow .ag-ic-edit{color:#2FA8FF;}.ag-titlerow .ag-ic-arrow{color:#62560E;}
